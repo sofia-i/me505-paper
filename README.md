@@ -3,4 +3,4 @@
 ## Repository Contents
 
 - Mathematica code
-- Animated simulation results, found in `/animations`
+- Animated simulation results, found in [`/animations`](animations)
